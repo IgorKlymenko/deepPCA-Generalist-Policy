@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# C/C++ build artifacts
+*.o
+*.so
+*.a
+*.dylib
+build/
+cmake-build-*/
+dist/
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
